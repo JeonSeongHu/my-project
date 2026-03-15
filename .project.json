@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "title": "My Project",
+    "template": "cameo",
+    "theme": {
+      "primaryColor": "#22869A",
+      "secondaryColor": "#1E293B",
+      "accentColor": "#2DD4BF",
+      "backgroundColor": "#FFFFFF",
+      "surfaceColor": "#FBFFFE",
+      "textColor": "#1E293B",
+      "textSecondaryColor": "#64748B",
+      "borderColor": "#E2E8F0",
+      "fontFamily": "'Wanted Sans Variable', 'Wanted Sans', -apple-system, BlinkMacSystemFont, sans-serif",
+      "headingFontFamily": "'Wanted Sans Variable', 'Wanted Sans', -apple-system, BlinkMacSystemFont, sans-serif",
+      "monoFontFamily": "monospace",
+      "baseFontSize": 15,
+      "headingFontSize": 2.5,
+      "bodyLineHeight": 1.625,
+      "borderRadius": 12,
+      "maxWidth": 1088,
+      "sectionSpacing": 48,
+      "contentPaddingX": 16,
+      "navStyle": "left-sidebar",
+      "navBackground": "transparent",
+      "navTextColor": "#64748B",
+      "navAccentColor": "#22869A",
+      "heroStyle": "flat",
+      "heroBackground": "#FFFFFF",
+      "heroGradientFrom": "#FFFFFF",
+      "heroGradientTo": "#FFFFFF",
+      "heroTitleSize": 3.75,
+      "heroSubtitleSize": 1.25,
+      "headingStyle": "border-bottom",
+      "headingDecoColor": "#22869A",
+      "headingDecoWidth": 0,
+      "headingDecoThickness": 2,
+      "shadowStyle": "subtle",
+      "cardShadow": "0 1px 3px rgba(0,0,0,0.05)",
+      "cardHoverShadow": "0 4px 12px rgba(0,0,0,0.1)",
+      "animationStyle": "slide-up",
+      "contentBoxStyle": "plain",
+      "contentBoxRadius": 12,
+      "contentBoxPadding": 0,
+      "tldrStyle": "badge-label",
+      "tldrBackground": "#FBFFFE",
+      "tldrBorderColor": "#22869A",
+      "tldrLabelColor": "#22869A",
+      "buttonStyle": "dark-pill",
+      "buttonBackground": "#1E293B",
+      "buttonTextColor": "#FFFFFF",
+      "buttonBorderColor": "#CBD5E1",
+      "buttonRadius": 9999,
+      "buttonHoverEffect": "darken",
+      "authorLinkColor": "#334155",
+      "tableHeaderBg": "transparent",
+      "tableHeaderColor": "#1E293B",
+      "tableBorderColor": "#F1F5F9",
+      "tableHighlightBg": "#F0FDFA",
+      "tableHighlightColor": "#22869A",
+      "bibtexStyle": "card",
+      "bibtexBackground": "#FBFFFE",
+      "bibtexBorderColor": "#E2E8F0",
+      "mediaStyle": "plain",
+      "mediaBorderRadius": 12,
+      "mediaBoxPadding": 0,
+      "captionStyle": "italic",
+      "compLabelStyle": "branded",
+      "compLabelABg": "#F8FEFB",
+      "compLabelAColor": "#20879A",
+      "compLabelBBg": "rgba(15,23,42,0.9)",
+      "compLabelBColor": "#ffffff",
+      "compSliderColor": "#22869A",
+      "sectionDivider": "border-top"
+    }
+  },
+  "sections": [
+    {
+      "id": "ffe9vc3a",
+      "type": "hero",
+      "visible": true,
+      "content": {
+        "projectTitle": "Your Project Title",
+        "subtitle": "A brief, compelling description of what your project does",
+        "venue": "CVPR",
+        "venueYear": "2026"
+      }
+    },
+    {
+      "id": "3vvgbtcz",
+      "type": "authors",
+      "visible": true,
+      "content": {
+        "authors": [
+          {
+            "name": "Author One",
+            "affiliation": "University A",
+            "url": "#",
+            "equal": true
+          },
+          {
+            "name": "Author Two",
+            "affiliation": "University B",
+            "url": "#",
+            "equal": true
+          },
+          {
+            "name": "Author Three",
+            "affiliation": "University A",
+            "url": "#"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3fdzfeo9",
+      "type": "links",
+      "visible": true,
+      "content": {
+        "links": [
+          {
+            "label": "Paper",
+            "url": "#",
+            "icon": "paper"
+          },
+          {
+            "label": "arXiv",
+            "url": "#",
+            "icon": "arxiv"
+          },
+          {
+            "label": "Code",
+            "url": "#",
+            "icon": "code"
+          },
+          {
+            "label": "Video",
+            "url": "#",
+            "icon": "video"
+          }
+        ]
+      }
+    },
+    {
+      "id": "58n49wr5",
+      "type": "teaser",
+      "visible": true,
+      "title": "",
+      "content": {
+        "media": [
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Teaser figure",
+            "alt": "Main teaser figure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "uphl9gla",
+      "type": "tldr",
+      "visible": true,
+      "title": "TL;DR",
+      "content": {
+        "text": "A one or two sentence summary of your key contribution and why it matters."
+      }
+    },
+    {
+      "id": "2cdx3fjo",
+      "type": "abstract",
+      "visible": true,
+      "title": "Abstract",
+      "content": {
+        "text": "Write your abstract here. Describe the problem, your approach, and key results. This section should give readers a complete overview of your work in a concise format."
+      }
+    },
+    {
+      "id": "p6p6g8bj",
+      "type": "video",
+      "visible": true,
+      "title": "Method Overview",
+      "content": {
+        "media": [
+          {
+            "type": "video",
+            "src": "",
+            "caption": "Method overview video"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7nde8876",
+      "type": "image",
+      "visible": true,
+      "title": "Framework",
+      "content": {
+        "media": [
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Overview of our proposed framework",
+            "alt": "Framework diagram"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa1zwfpl",
+      "type": "image-grid",
+      "visible": true,
+      "title": "Qualitative Results",
+      "content": {
+        "columns": 3,
+        "imageGridRows": 2,
+        "media": [
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 1"
+          },
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 2"
+          },
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 3"
+          },
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 4"
+          },
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 5"
+          },
+          {
+            "type": "image",
+            "src": "",
+            "caption": "Result 6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5vxdgyj",
+      "type": "image-comparison",
+      "visible": true,
+      "title": "Comparisons",
+      "content": {
+        "comparisons": [
+          {
+            "labelA": "Ours",
+            "labelB": "Baseline",
+            "imageA": "",
+            "imageB": "",
+            "caption": "Side-by-side comparison"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7xueml9k",
+      "type": "results-table",
+      "visible": true,
+      "title": "Quantitative Results",
+      "content": {
+        "headers": [
+          "Method",
+          "PSNR ↑",
+          "SSIM ↑",
+          "LPIPS ↓"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "Baseline A",
+              "28.5",
+              "0.92",
+              "0.08"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Baseline B",
+              "29.1",
+              "0.93",
+              "0.07"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Ours",
+              "31.2",
+              "0.96",
+              "0.04"
+            ],
+            "highlight": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h6byrm5d",
+      "type": "bibtex",
+      "visible": true,
+      "title": "Citation",
+      "content": {
+        "bibtex": "@inproceedings{author2026project,\n  title={Your Project Title},\n  author={One, Author and Two, Author and Three, Author},\n  booktitle={Proceedings of CVPR},\n  year={2026}\n}"
+      }
+    },
+    {
+      "id": "elizratb",
+      "type": "nav-sidebar",
+      "visible": true,
+      "content": {
+        "navAutoFromSections": true,
+        "navItems": [],
+        "navBackground": "transparent",
+        "navTextColor": "#64748b",
+        "navAccentColor": "#22869A",
+        "navSticky": true,
+        "navShowDots": true,
+        "navShowLabels": true,
+        "navLogo": "",
+        "navPreset": "minimal"
+      },
+      "title": "Sidebar Navigation"
+    }
+  ]
+}
