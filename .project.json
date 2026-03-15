@@ -276,9 +276,9 @@
       "content": {
         "headers": [
           "Method",
-          "PSNR Ã¢ÂÂ",
-          "SSIM Ã¢ÂÂ",
-          "LPIPS Ã¢ÂÂ"
+          "PSNR ÃÂ¢ÃÂÃÂ",
+          "SSIM ÃÂ¢ÃÂÃÂ",
+          "LPIPS ÃÂ¢ÃÂÃÂ"
         ],
         "rows": [
           {
