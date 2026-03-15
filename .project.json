@@ -273,9 +273,9 @@
       "content": {
         "headers": [
           "Method",
-          "PSNR ↑",
-          "SSIM ↑",
-          "LPIPS ↓"
+          "PSNR â",
+          "SSIM â",
+          "LPIPS â"
         ],
         "rows": [
           {
