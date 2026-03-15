@@ -71,7 +71,10 @@
       "compLabelBBg": "rgba(15,23,42,0.9)",
       "compLabelBColor": "#ffffff",
       "compSliderColor": "#22869A",
-      "sectionDivider": "border-top"
+      "sectionDivider": "border-top",
+      "navSideAlign": "center",
+      "navSidePosition": "right",
+      "navSidePreset": "clean"
     }
   },
   "sections": [
@@ -273,9 +276,9 @@
       "content": {
         "headers": [
           "Method",
-          "PSNR â",
-          "SSIM â",
-          "LPIPS â"
+          "PSNR Ã¢ÂÂ",
+          "SSIM Ã¢ÂÂ",
+          "LPIPS Ã¢ÂÂ"
         ],
         "rows": [
           {
